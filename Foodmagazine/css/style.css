@@ -1,0 +1,66 @@
+.red-container {
+  background-color: red;
+  color: white;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.green-container {
+  background-color: rgb(51, 248, 70);
+  color: white;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.qurilma-container {
+  .row {
+    margin-top: 20px;
+  }
+
+  .row > div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(140, 140, 244);
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+  }
+}
+
+.kichik-qurilma-container {
+  .row {
+    margin-top: 20px;
+  }
+
+  .row > div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(83, 152, 232);
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+  }
+}
+
+.aralash-qurilma-container {
+  .row {
+    margin-top: 20px;
+  }
+
+  .row > div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(220, 125, 241);
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+  }
+
+  .image-container {
+    border: 1px solid green;
+    width: 200px;
+  }
+
+}
